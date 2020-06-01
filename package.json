@@ -14,8 +14,7 @@
   },
   "author": "Kristy",
   "license": "ISC",
-  "bugs": {
-  },
+  "bugs": {},
   "homepage": "https://github.com/kristycode/budgetApp#readme",
   "dependencies": {
     "compression": "^1.7.4",
